@@ -1,10 +1,17 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hi I'm Fealoyalmy 👋</h1>
+  <h3>🏫 I’m currently studying in NUAA</h3>
+  <br>
+  <a href="https://github.com/Fealoyalmy">
+    <img style="height: 240px" src="https://github-readme-stats.vercel.app/api?username=Fealoyalmy&show_icons=true&rank_icon=github&theme=apprentice&bg_color=DEG,e96443,904e95&text_color=ffffff&border_radius=10">
+    <img style="height: 240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fealoyalmy&layout=donut&bg_color=DEG,005aa7,fffde4&title_color=ffffff&text_color=ffffff&border_radius=10">
+  </a>
+</div>
+
 
 <!--
 **Fealoyalmy/Fealoyalmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+&bg_color=DEG,005aa7,fffde4
+&bg_color=DEG,2980b9,6dd5fa
 -->

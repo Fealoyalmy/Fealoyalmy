@@ -3,8 +3,8 @@
   <h3>🏫 I’m currently studying in NUAA</h3>
   <br>
   <a href="https://github.com/Fealoyalmy">
-    <img style="height: 200px" src="https://github-readme-stats.vercel.app/api?username=Fealoyalmy&show_icons=true&rank_icon=github&theme=apprentice&bg_color=DEG,e96443,904e95&text_color=ffffff&border_radius=10">
     <img style="height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fealoyalmy&layout=donut&bg_color=DEG,005aa7,fffde4&title_color=ffffff&text_color=ffffff&border_radius=10">
+    <img style="height: 200px" src="https://github-readme-stats.vercel.app/api?username=Fealoyalmy&show_icons=true&rank_icon=github&theme=apprentice&bg_color=DEG,e96443,904e95&text_color=ffffff&border_radius=10">
   </a>
 </div>
 

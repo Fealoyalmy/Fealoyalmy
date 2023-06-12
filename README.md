@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi I'm Fealoyalmy 👋</h1>
-  <h3>🏫 I’m currently studying in NUAA</h3>
+  
   <br>
   <a href="https://github.com/Fealoyalmy">
     <img style="height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fealoyalmy&layout=donut&bg_color=DEG,005aa7,fffde4&title_color=ffffff&text_color=ffffff&border_radius=10">
